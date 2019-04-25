@@ -8,6 +8,7 @@ and start on mobile or emulator using
 react-native run-android
 
 
+issue is marked here  : https://github.com/dsznajder/react-native-otp-inputs/issues/20
 
 error : 
 Loading dependency graph, done.
