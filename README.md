@@ -1,4 +1,4 @@
-# react-native-otp-inputs-error
+# react-native-otp-inputs  v2.0.1 errors
 To display react-native-otp-inputs  library problem
 
 to setup project
